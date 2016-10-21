@@ -1,0 +1,10 @@
+don.baughman@enron.com	584
+suresh.raghavan@enron.com	5
+harry.arora@enron.com	226
+sally.beck@enron.com	2410
+john.arnold@enron.com	425
+k..allen@enron.com	84
+eric.bass@enron.com	531
+susan.bailey@enron.com	119
+robert.badeer@enron.com	66
+phillip.allen@enron.com	28

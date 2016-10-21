@@ -1,0 +1,13 @@
+trading	0	0
+l..mims@enron.com	214	201
+steven.merris@enron.com	18	9
+patrice.mims@enron.com	9	760
+judy.townsend@enron.com	73	150
+judy.hernandez@enron.com	333	888
+carol.clair@enron.com	98	2669
+marie.heard@enron.com	231	789
+dan.hyvl@enron.com	459	1326
+d..thomas@enron.com	494	158
+jason.williams@enron.com	153	145
+juan.hernandez@enron.com	123	358
+paul.thomas@enron.com	4	16
